@@ -119,9 +119,7 @@ git push
 
 * Localiza el archivo README.md
 * Haz clic en el ícono de edición (lápiz) para modificar el archivo directamente en GitHub.
-* Agrega una línea de texto simple, como:
-# Cambio en GitHub
-* Este cambio fue hecho directamente en GitHub  
+* Agrega una línea de texto simple, como: 
 # Cambio en GitHub
 * Este cambio fue hecho directamente en GitHub por Juan Diego Guerrero Alvarado
 ```md
