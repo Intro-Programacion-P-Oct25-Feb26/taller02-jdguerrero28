@@ -120,10 +120,12 @@ git push
 * Localiza el archivo README.md
 * Haz clic en el ícono de edición (lápiz) para modificar el archivo directamente en GitHub.
 * Agrega una línea de texto simple, como:
-
-```md
 # Cambio en GitHub
-* Este cambio fue hecho directamente en GitHub
+* Este cambio fue hecho directamente en GitHub  
+# Cambio en GitHub
+* Este cambio fue hecho directamente en GitHub por Juan Diego Guerrero Alvarado
+```md
+
 ```
 * Haz Commit del cambio directamente en la interfaz web de GitHub (usando el botón "Commit changes")
 * **Atención**: El repositorio en GitHub tiene un commit que tu máquina local aún no tiene.
